@@ -18,11 +18,7 @@ go [back](../../README.md)
 
 ## Demo
 
-### Full Demo with Aseprite and Tiled
-Game at 1:00
+[Full Demo with Aseprite and Tiled](https://youtu.be/f3kpjSA7VE4) [YouTube]
 
-<video src="media/full_demo.mp4" width="854" height="480 " controls></video>
-
-### Demo of new animations (somewhat current state)
-
-<video src="media/new_animations.mp4" width="854" height="480 " controls></video>
+[Demo of new animations (somewhat current state)
+](https://youtu.be/Z9bOFtigPAQ) [YouTube]

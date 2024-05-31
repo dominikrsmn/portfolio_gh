@@ -15,4 +15,5 @@ go [back](../../README.md)
 
 ## Demo
 
-<video src="media/demo.MP4" width="854" height="480 " controls></video>
+[Demo of the plugin in action](https://youtu.be/uE49MZ8IYpw) [YouTube]
+
