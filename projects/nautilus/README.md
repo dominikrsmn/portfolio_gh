@@ -9,6 +9,7 @@ go [back](../../README.md)
 ## Features
 
 - Player-controlled octopus with movement in all directions
+- Framerate independency for consistent gameplay
 - Dash ability to move quickly and jump further
 - Custom pixel art graphics and animations made in [Aseprite](https://www.aseprite.org/)
 - Level editing with [Tiled](https://www.mapeditor.org/) and automapping
