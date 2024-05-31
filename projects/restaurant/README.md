@@ -1,6 +1,10 @@
+go [back](../../README.md)
+
 # Restaurant
 
 Live at [https://dominik-demo1.netlify.app/](https://dominik-demo1.netlify.app/)
+
+github repo:  https://github.com/centrixdev/restaurant-1
 
 ## Overview
 
@@ -18,3 +22,4 @@ Simple demo restaurant website with interactive menu, animated homepage and rese
 
 ![Screenshot 1](images/screenshot1.png)
 ![Screenshot 2](images/screenshot2.png)
+![Screenshot 3](images/screenshot3.png)
