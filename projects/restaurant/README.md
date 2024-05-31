@@ -4,7 +4,7 @@ go [back](../../README.md)
 
 Live at [https://dominik-demo1.netlify.app/](https://dominik-demo1.netlify.app/)
 
-github repo:  https://github.com/centrixdev/restaurant-1
+github repo: [github.com/centrixdev/restaurant-1](https://github.com/centrixdev/youtube-info-extension)
 
 ## Overview
 
