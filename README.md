@@ -39,6 +39,6 @@ Simple demo restaurant website using NextJS and Tailwind, open source.
 
 Feel free to reach out if you have any questions!
 
-- **Email:** [dominik.rsmn@gmail.com](mailto:dominik.rsmn@gmail.com)
-- **GitHub:** [centrixdev](https://github.com/centrixdev)
+- **Email:** [dominik@pushup.vision](mailto:dominik.rsmn@gmail.com)
+- **GitHub:** [dominikrsmn](https://github.com/dominikrsmn)
 
