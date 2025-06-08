@@ -6,11 +6,13 @@ Welcome to my portfolio! Here, you can find a collection of my work, including p
 
 ### [Website for FV Stollhofen](projects/fvstollhofen/README.md)
 
-Website for my home football club
+Website for my home football club.
+[Read more](projects/fvstollhofen/README.md).
 
 ### [n8n workflows](projects/n8n/README.md)
 
-n8n workflows made by me
+n8n workflows made by me.
+[Read more](projects/n8n/README.md).
 
 ### [ContentMachine](projects/contentmachine/README.md)
 
