@@ -8,6 +8,10 @@ Welcome to my portfolio! Here, you can find a collection of my work, including p
 
 Website for my home football club
 
+### [n8n workflows](projects/n8n/README.md)
+
+n8n workflows made by me
+
 ### [ContentMachine](projects/contentmachine/README.md)
 
 Automatically upload popular twitch clips to YouTube Shorts.
